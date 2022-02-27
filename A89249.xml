@@ -1,0 +1,378 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true light hath made manifest darknesse: or, Sion builded up, and Babylon cast downe. With a true answer of what the Baptist teachers objected against the servant of the Lord who in scorn is called a Quaker, and known to the world by the name of Iohn Moon, in several places in VVales, both in Radnorshire, and Breck-nockshire, whose names are these. Hugh Evans, John Price, Daniel Penry, Reese Davies, John Prosser, Evans Oliver, and Vavasor Powel, who are called ministers of the gospel, but are found to be enemies to it. Some of Vavasor Powel's doctrine tryed, and made manifest by the light. And also some queries given forth, and are to be answered by them that lives in observations. This is given forth by me who is a lover of the truth, and known to the world by this name, John Moone.</title>
+            <author>Moon, John, fl. 1657-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89249</idno>
+            <idno type="STC">Wing M2526</idno>
+            <idno type="STC">Thomason E909_4</idno>
+            <idno type="STC">ESTC R207461</idno>
+            <idno type="EEBO-CITATION">99866510</idno>
+            <idno type="PROQUEST">99866510</idno>
+            <idno type="VID">118786</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89249)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118786)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 137:E909[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true light hath made manifest darknesse: or, Sion builded up, and Babylon cast downe. With a true answer of what the Baptist teachers objected against the servant of the Lord who in scorn is called a Quaker, and known to the world by the name of Iohn Moon, in several places in VVales, both in Radnorshire, and Breck-nockshire, whose names are these. Hugh Evans, John Price, Daniel Penry, Reese Davies, John Prosser, Evans Oliver, and Vavasor Powel, who are called ministers of the gospel, but are found to be enemies to it. Some of Vavasor Powel's doctrine tryed, and made manifest by the light. And also some queries given forth, and are to be answered by them that lives in observations. This is given forth by me who is a lover of the truth, and known to the world by this name, John Moone.</title>
+                  <author>Moon, John, fl. 1657-1685.</author>
+               </titleStmt>
+               <extent>[2], 20, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Calvert, at the black Spread-Eagle neer the West end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Aprill 24:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118786:1" rendition="simple:additions"/>
+            <p>THE TRUE LIGHT Hath made manifeſt DARKNESSE: <hi>OR, Sion</hi> builded up, and <hi>Babylon</hi> caſt downe. WITH A true Anſwer of what the Baptiſt Teachers obje<g ref="char:EOLhyphen"/>cted againſt the Servant of the Lord who in ſcorn is called a <hi>Quaker,</hi> and known to the world by the name of <hi>Iohn Moon,</hi> in ſeveral places in <hi>VVales,</hi> both in Radnorſhire, and Breck<g ref="char:EOLhyphen"/>nockſhire, whoſe names are theſe.</p>
+            <list>
+               <item>
+                  <hi>Hugh Evans,</hi>
+               </item>
+               <item>
+                  <hi>John Price,</hi>
+               </item>
+               <item>
+                  <hi>Daniel Penry,</hi>
+               </item>
+               <item>
+                  <hi>Reeſe Davies,</hi>
+               </item>
+               <item>
+                  <hi>John Proſſer,</hi>
+               </item>
+               <item>
+                  <hi>Evans Oliver,</hi>
+               </item>
+               <item>and <hi>Vavaſor Powel,</hi> who are called Miniſters of the Goſpel, but are found to be enemies to it.</item>
+            </list>
+            <q>
+               <bibl>Joel 2, 10.</bibl> 
+               <hi>The Lord is uttering his voyce out of holy Sion, and ſaith the earth ſhall quake before them, and the heavens ſhall tremble.</hi>
+            </q>
+            <q>
+               <bibl>Pſal. 2. 11.</bibl> 
+               <hi>Serve the Lord with fear, and rejoyce with trembling.</hi>
+            </q>
+            <p>Some of <hi>Vavaſor Powel's</hi> doctrine tryed, and made manifeſt by the Light. And alſo ſome Queries given forth, and are to be an<g ref="char:EOLhyphen"/>ſwered by them that lives in obſervations.</p>
+            <p>
+               <hi>This is given forth by me who is a lover of the Truth, and known to the world by this name,</hi> John Moone.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Calvert,</hi> at the black Spread-Eagle neer the Weſt end of <hi>Pauls,</hi> 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118786:2"/>
+            <pb n="1" facs="tcp:118786:2"/>
+            <head>The true Light hath made manifeſt Darkneſſe, &amp;c.</head>
+            <p>NOW is the day wherein the Lord God is making manifeſt his love in the hearts of his people, to the diſcovering the deceit of the heart, and makes manifeſt unto man the falſe way of Worſhip, and to the diſ<g ref="char:EOLhyphen"/>covering of all rotten profeſſion which many do boaſt in; and this love is that which thinks none ill, which is that light which ſhines in darkneſs; and if man will but hearken unto it, and obey it, it will lead man out of the wayes of dark<g ref="char:EOLhyphen"/>neſs, into the way of light and life: And herein man will come to know and poſſeſs that which the world profeſſes; now he that would know the way unto life, muſt firſt know that light which ſhines in darkneſs to be the Judge and Condemner of his evil deeds; for all them that will not come to the light to be tryed, their deeds are evil; and theſe are them that profeſs that with their tongues which their ſouls never did poſſeſs; and theſe are them by whom the way of God is evil ſpoken of: Therefore hold not thy peace O God, but ariſe and plead the cauſe of thy children, and make all the ungodly to know that thou art a righteous Judge, and that by thy eternal Word, the mouth of the Wicked may be ſtopped, and all them who are gainſayers of the Truth may be confounded, and that thou by thy own Work, O Lord, may be praiſed and glorified for ever<g ref="char:EOLhyphen"/>more.</p>
+            <p>This is in love to all you who would know the Truth as it
+<pb n="2" facs="tcp:118786:3"/>
+is in Jeſus, and who has a deſire to know true poſſeſſion from the rotten profeſſion, which ſtands in obſervations, who are by the children of God known to be the uncircum<g ref="char:EOLhyphen"/>ciſed <hi>Philiſtines.</hi>
+            </p>
+            <p>And as the ſervant of the Lord was declaring the Word of the Lord to the people, and ſaid Chriſt lighteth every man that cometh into the World, and it is by that light which man is to be lead out of darkneſs.</p>
+            <p>And one of the Baptiſts, called <hi>Hugh Evans,</hi> ſaid, <hi>That the true Light ſhineth but in ſome, and not in all.</hi> He was de<g ref="char:EOLhyphen"/>manded to prove it, but could not.</p>
+            <p>This I ſay, That the true Light is that which lighteth every one, as ſaith the Scripture, <hi>That was the true Light,</hi>
+               <note place="margin">John 1. 9.</note> 
+               <hi>which lighteth every man that cometh into the world.</hi> Now ſee how contrary to the Scripture he doth ſpeak, that would make <hi>John</hi> a falſe Witneſs, and the Scripture to be a lye, which ſaith, <hi>Light ſhines in darkneſs, and darkneſs compre<g ref="char:EOLhyphen"/>hends it not.</hi> Now every one conſider that readeth, and ſee<note place="margin">John 1. 5.</note> if ye can finde in all the Scripture, if it doth declare of any other but the Righteous and the Wicked; Light and Dark<g ref="char:EOLhyphen"/>neſs; the ſtrait Way, and the broad Way; the one is the Way to life, and the other unto death: Now every one that knovvs that Way which leads unto death, it is the light that ſhews it him; and if he will hearken to the Light, it will ſhevv him vvhat wilhe ſhould deny, and vvhat croſs to bear; and through the denial of his ovvn vvill, the croſs he vvill come to knovv, vvhich daily ſhould be born, and then he vvill come to knovv it to be the povver of God unto ſalva<g ref="char:EOLhyphen"/>tion: And if man doth not deny that vvill vvhich leads into iniquity, it is that vvill vvhich ſtumbles at the croſs, &amp; counts it fooliſhneſs; but theſe are them vvhich periſh, and talks of the Croſs, but knovvs it not, nor the power of God, but are found Enemies to it; and theſe are them who ſaith Chriſt hath given light unto ſome, and not to all; and herein they vvould make Chriſt to be a reſpector of perſons; <hi>If ye have</hi>
+               <note place="margin">James 2. 9.</note> 
+               <hi>reſpect to perſons ye commit ſin, and are convinced of the Law
+<pb n="3" facs="tcp:118786:3"/>
+as a Tranſgreſſor:</hi> Now this I ſay, That Chriſt hath reſpect<note place="margin">
+                  <hi>Acts</hi> 10. 34.</note> to no mans perſon, as ſaith the Apoſtle, <hi>Of a truth I perceive that God is no reſpector of perſons;</hi> now here every one that reads may ſee their confuſed Language, and may ſee that thoſe are them who ſpeaks contrary to the Scripture; and all theſe who would know life, muſt believe in the Son of God who is the light which ſhines in darkneſs, vvhich is the con<g ref="char:EOLhyphen"/>demnation of the vvicked, as the Scripture doth declare, <hi>This is the condemnation, That Light is come into the world, and</hi>
+               <note place="margin">John 3. 19.</note> 
+               <hi>men loved darkneſs rather then Light, becauſe their deeds were evil; for every one that doth evil hateth the light, but he that doth truth cometh to the Light, that his deeds may be made mani<g ref="char:EOLhyphen"/>feſt that they are wrought in God;</hi> and here it ſhews but of two, the one his deeds were evil, and he hateth the Light; and the other he loveth the Light, and brought his deeds to the Light: Now herein he that reads may ſee that the Profeſ<g ref="char:EOLhyphen"/>ſors do ſay that the Light ſhines unto them, but not to o<g ref="char:EOLhyphen"/>thers; and herein it doth appear by their own words, that their Profeſſion is darkneſs: Now this I ſay, That the light ſhines to the prophane, and to them that ſits in darkneſs, as the Scripture beareth witneſs; <hi>God gave his only Son a light</hi>
+               <note place="margin">Luke 8. 79.</note> 
+               <hi>to them that ſit in darkneſs, and in the ſhadow of death.</hi>
+            </p>
+            <p>And alſo the ſame man ſaid, <hi>That Chriſt and his ſpirit were diſtinct.</hi>
+            </p>
+            <p>I ſay, That they are one, and not diſtinct; <hi>Chriſt is the life, and the Spirit is life becauſe of Righteouſneſs:</hi> Now ſee<note place="margin">Rom. 8. 20.</note> where is the diſtinction, for the Scripture declares that the<note place="margin">John 17 21.</note> Father and the Son are one, as you may read, <hi>That they all may be one, as thou Father art in me, and I in thee; that they al<g ref="char:EOLhyphen"/>ſo</hi>
+               <note place="margin">Ver. 22.</note> 
+               <hi>may be one in us, that the world may believe that thou haſt ſent me, and the glory which thou gaveſt me, I have given them, that they may be one, even as we are one.</hi> Them who have an eye to ſee withal, let them ſee the confuſion which the Bap<g ref="char:EOLhyphen"/>tiſt declares, vvho vvould make Chriſt and his Spirit di<g ref="char:EOLhyphen"/>ſtinct one from the other, which is contrary to the Scrip<g ref="char:EOLhyphen"/>ture; ſo with the Scripture they are judged, and with the
+<pb n="4" facs="tcp:118786:4"/>
+life which gave forth the Scripture, they are condemned; as Chriſt ſaid; the hour cometh, and now is when the true worſhippers ſhall worſhip the Father in ſpirit and in truth;<note place="margin">John 4. 23.</note> for the Father ſeeketh ſuch to worſhip him; for God is a Spirit and they that worſhip him muſt worſhip him in Spirit and in truth; and now herein you may ſee that Chriſt and<note place="margin">Ver. 24.</note> that Spirit wherein he is worſhiped is one, and it is them that he is well pleaſed with; but them that knows not his true worſhip ſpeaks evill of it; and theſe are them that would make a diſtinction between Chriſt and his Spirit.</p>
+            <p>As the ſervant of the Lord, who is by the world called quaker, went to a meeting, and there to wait upon the Lord; and as he was moved by the Lord, to declare his word to the people, how they muſt come to know the way unto God, which is light, and ſaid that which made mani<g ref="char:EOLhyphen"/>feſt ſin is light, and it is that light which ſhews man the broad way which is ſin, and if man would hearken to that light and obey it, it would lead him to know the ſtrait way where life is to be found, and ſaid as long as man is going on in his ſin he is in the way of darkneſs; and there the true light ſhines and ſhews him the evill deeds of darkneſs; and now he that loves the Lord, and would know the redemption of his ſoule, muſt learne of the light to deny that will, whereby he is lead to do evil; for it is that will which is not ſubiect to the Lord, and as long as man harbors that will, he harbors the curſed thing which is the enemie of mans ſoul; and man that harbors that curſed thing, with it is to periſh; but man denying the curſed thing, &amp; owning that light and obeying it, it would lead him to know a day of redemption; and if man deny that light which ſhews him ſin, to be his teacher, redemption he will not know.</p>
+            <p>Then one of the cheefeſt of the profeſſors called <hi>Iohn Price</hi> hearing me declare to the people how they ſhould know truth from error; and light from darkneſs; then he ſaid there is an other way beſides light and darkneſs, and that they are diſtinct one from the other; I bade him prove three ways: and this is his proof, there is God, man, and the devil:
+<pb n="5" facs="tcp:118786:4"/>
+I bade him prove them diſtinct one from the other and clear it to the ſatisfying of the people that way which was neither light nor darkneſs; and I demanded of him to ſhew and make manifeſt to the people the word which ſaid they are diſtinct one from the other, but he could not.</p>
+            <p>
+               <hi>An.</hi> Now this I ſay; that there is no other way but light and darkneſs, and man is in the one way, and obeying the one, as the Scripture maketh manifeſt; know ye not that to<note place="margin">Rom. 6. 26.</note> whom ye yeeld your ſelves ſervants to obey, his ſervants ye are; now if man obey the light, he obeys God; and if man obey ſin, he obeys the worke of the devil; now every one conſider and mind the light, which will ſhew man which way he is going, and when he doth evil it reproves him, and ſhews him whoſe worke he is doing; for there is none that can ſerve two Maſters; ſo people conſider, whom ye ſerve<note place="margin">I Cor. 6. 16, 17.</note> and what ye are joyned unto, for he that is joyned to an harlot is one body, for two (ſaith he) ſhall be one fleſh; but he that is joyned to the Lord is one ſpirit; and now every one own that light which will ſhew you what you are joyned unto; and every one that is joyned to his own will, which is the luſt of the fleſh, except he deny that will with it he muſt periſh; So every one that would know the way to the kingdome of God; muſt learn of the light to deny his owne will; and take up the Croſs and follow Chriſt Jeſus dayly, and then he will come to know the power of God; which overcomes the wicked one; this I ſay, that there is God, man, and the devil; and man is joyned to the one, either to God or to an harlot; now let the wiſe in heart judge where the third way is.</p>
+            <p>
+               <hi>And the ſame man ſaith, that faith is not the gift of God.</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Now this I ſay, that faith whereby man is ſaved from ſin is the gift of God; as the Scripture beareth teſtimony, for by<note place="margin">Eph. 2. 8.</note> grace ye are ſaved through faith, &amp; that not of your ſelves, it is the gift of God; now here, in your way; ſee how contrary to the Scripture he ſpeaks, &amp; though many may have the letter
+<pb n="6" facs="tcp:118786:5"/>
+and know the Chapter, and verſe, and yet be ignorant of the way unto life; ſo all people conſider, what way you are in, and what faith you do know, for that faith which is without works is dead; now ſee if you know that faith which ſaves from ſin; if not, your faith &amp; you muſt periſh; and this is that faith which the world lives in, and though the world may have the letter to talke on; yet this I ſay, there was not any by it ſaved; for the drunkard, the ſwearer, lyer, and the covetous one, theſe have the letter to talke on; but are not ſaved from their ſins, and theſe are them who follow the blind teachers of the world; and if the blind lead the blind both ſhall fall into the ditch; now people conſider in what condition you are in, and ſee if you can witneſs to be ſaved from your ſins, for if you live in them, ye are them who are deceived, and are in the broad way; for ſin is the broadeſt way that any can walke in; now let him that readeth, read with an underſtaning; and ſee if in all the Scripture ye can find of any other ſaving faith, but what is given of God.</p>
+            <p>
+               <hi>Daniel Penry,</hi> another of the Baptiſts ſaid as he was decla<g ref="char:EOLhyphen"/>ring to the people, <hi>That the Devil ſpake in the people of God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Now this I ſay, That the people of God is the Temple of God, as the Scripture declares; <hi>Know ye not that</hi>
+               <note place="margin">1 Cor. 6. 19.</note> 
+               <hi>your bodyes is the Temple of the Holy Ghoſt, which is in you?</hi> Now people conſider how confuſedly he hath ſpoken, for that which he ſaid is more likely to be the Synagogue of Sa<g ref="char:EOLhyphen"/>tan then the Temple of God, for where the Devil ſpeaks is the Idols Temple; and God ſaid, <hi>What agreement hath the</hi>
+               <note place="margin">1 Cor. 6. 19.</note> 
+               <hi>Temple of God with Idols? For ye are the Temple of the living God;</hi> as God hath ſaid, <hi>I will dwell in them, and walk in them; and I will he their God, and they ſhall be my people.</hi> Now he that hath an eye to ſee withal, may ſee their confuſed Lan<g ref="char:EOLhyphen"/>guage, who doth call the Temple of God the Idols Temple, and herein they are found to be them that call Truth Error, but Truth hath made manifeſt their Errors; and all them
+<pb n="7" facs="tcp:118786:5"/>
+who knows the Truth, and the true VVorſhip and Temple of God, they know how and by what the Prince of this World is caſt out, as the Scripture declares, they know it ſo to be; <hi>Now is the judgement of this World, now ſhall the Prince of this world be cast out; and all ye that knows him to be caſt out,</hi>
+               <note place="margin">John. 10. 31.</note> 
+               <hi>praiſe ye, and glorifie the Name of the Lord God for ever<g ref="char:EOLhyphen"/>more.</hi>
+            </p>
+            <p>
+               <hi>Rees Davies,</hi> and another ſaid, who were two Baptiſts, theſe words, <hi>That in the devil there is as much of God as makes him tremble.</hi> And the other ſaid, <hi>That there is as much of God in the Devil as in man.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I ſaid he had ſpoken contrary to the Scripture; and I ſaid, The hope of Glory is in man, and it is not in the devil; as the Scripture meakes manifeſt; to whom God would make known what is the riches of the glory of this<note place="margin">Gal. 1. 27.</note> miſtery amongſt the Gentiles, which is Chriſt in you the hope of glory; now all people conſider, and ſee how confuſedly they ſpeak, and contrary to the Scripture; ſo every one mind that light which convinces of ſin; and leads to the miſtery of faith; and leads out of all blind profeſſion to the true poſseſſion, where man will come to know a reſt to the weary ſoule; and now concering the devil, I ſay he is out of the truth, and the truth is not in him, as the Scripture doth affirme, Ye are of your Father the devil, and the luſt of your<note place="margin">John 8 44.</note> Father ye will do, he was a murderer from the beginning, and abode not in the truth becauſe there is no truth in him: ſo all people conſider and mind that light, which lighteth every man that comes into the world; that by it you may come to be lead out of darkneſs to know the light of life, but if you deny the light which convinces of ſin, out of darkneſs you cannot come and you will remaine ignorant of the truth, and though man declare the truth unto you ye can<g ref="char:EOLhyphen"/>not believe.</p>
+            <p>As the ſervant of the Lord, was moved of the Lord to go unto on of the Baptiſt meetings, to declare as he was moved
+<pb n="8" facs="tcp:118786:6"/>
+of the Lord unto the people, and ſaid that all worſhip that ſtood in the will of man was abomination unto the Lord, and ſaid where two or three were gethered togeteer in the name of the Lord, he would be in the mideſt of them; and I declared and ſaid that Chriſt is the light of the world, and lighteth every man that comes into the world, and it is that which ſhews man ſin, and ſhews the drunkards, he ſhould not be drunk, and the lyer he ſhould not lye; and the proud he reproves; then one of the Baptiſts hearing me, cryed out and ſaid, prove, prove thy doctrine, for I deny it; then I ſaid un<g ref="char:EOLhyphen"/>to him, if thou canſt diſprove me do, and if thou canſt not believe me; and I ſaid doſt thou cry out againſt me, becauſe I declare againſt pride, and thou being an upholder of it? then he ſaid, wherein am I an upholder of it? then I ſaid thou art on who goeth about to ſell ribaning and lace, and how canſt thou have a face to ſpeake to the people and ſay thou art one who declares the Goſpel; then he anſwered and ſaid, that ribaning, and lace, is to adorn the Goſpel; then I ſaid the ſame the drunkard and the ſwearer is adorned withall; now people conſider what the Baptiſt Goſpel is adornd with<g ref="char:EOLhyphen"/>all, for the ſame the whore of <hi>Babilon</hi> is adornd with; but this I ſay that the Goſpel of Chriſt is the power of God un<g ref="char:EOLhyphen"/>to ſalvation, unto every one that believes; &amp; it is adornd with righteouſneſs; and now herein you may ſe the defference betweene the Baptiſts Goſpel, and the Goſpel of Chriſt; and the ſame Baptiſt ſaid that there is nothing that is pure of God, in every mans conſcience, and he bade me prove that there is ſome thing which is pure of God in every mans conſcience, and he bade me prove that there is ſomething which is pure of GOD in every Mans conſcience, and this Scripture I bring to prove it, for the grace of God that brings ſalvation, hath apeared to all men, and this is that which is pure, for there is nothing that<note place="margin">Tit. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 11.</note> brings ſalvation but that which is of God; as the Scripture declares, that was the true light which lighteth every man<note place="margin">1 John 2. 9.</note> that cometh into the world, and this is that which con<g ref="char:EOLhyphen"/>vinces the world of ſin; the true light which ſhines in dark<g ref="char:EOLhyphen"/>neſs,<note place="margin">Verſ. 5.</note> and darkneſs comprehends it not, and now peopel this
+<pb n="9" facs="tcp:118786:6"/>
+I ſay there is but that conſcience which is purged, and that conſcience which is defiled as the Scripture declares Chriſt<note place="margin">Heb. 9. 14.</note> through the eternal ſpirit offered himſelfe without ſpot to God; purge your conſciences from dead works to ſerve the living God; and that conſcience which is defiled, is the conſcience of the wicked; and Chriſt came to call them to repentance, which defiled the conſcience; and that which is defiled is darkneſs, and there the true light ſhineth; and now all people that reads this, read it with an underſtand<g ref="char:EOLhyphen"/>ing and ſe if the profeſſion be not one with the profane, for many more words was betwixt them and me, which is not worth the mentioning, in ſo much that they ſaid that the heart of man is always deceitfull; and herein by their own words, it doth apeare that neither their profeſſion, nor their poſſeſſion doth clenſe their hearts from ſin, ſo all them that would know the remiſſion of ſin, own that vvhich convinces of ſin vvhich is the ſon of God, vvho ſets free that freedom, you may all come to know.</p>
+            <p>
+               <hi>Evan Oliver,</hi> a Baptiſt ſaid theſe words, that God and his grace is not both on.</p>
+            <p>
+               <hi>An.</hi> I ſay that God and his grace is both one, &amp; it is the grace of God vvhich brings ſalvation, and vvhich is the teacher of the children of God, as ſaith the Scripture; for the grace of God that brings ſalvation hath apeared to all men; teaching<note place="margin">Tit. 2. 11, 12.</note> us to deny ungodlyneſs and vvorldly luſts; and novv people conſider and ſee where you can find in all the Scripture, that God is not one with that vvhich brings ſalvation; for it is the grace of God that tells, and teaches man the way to God, and ſeperates man from his iniquities?</p>
+            <p>Some of the conference which paſed betwixt John Moone and Vavaſer Powel, vvho goeth under a pretence of being a Miniſter of the Goſpel, but is found to be an enimie to the Goſpel of Chriſt, and to his ſervants, vvho is and was ſent to declare the Goſpel of Chriſt as it is made manifeſt, to all them that knows the truth.</p>
+            <div n="1" type="error">
+               <head>The firſt error.</head>
+               <p>Vavaſer Powel ſaid theſe words, that Chriſt called his diſ<g ref="char:EOLhyphen"/>ciples, ye unbelieving and faithleſs Generation.</p>
+               <p>
+                  <pb n="10" facs="tcp:118786:7"/>Then <hi>John Moon</hi> ſaid that the diſciples were believers, and had faith, for if the diſciples were not believers and had not faith they were not ſaved, but vvere already condemned, and if they were condemned, who are they that are ſaved? And now herein <hi>Powel</hi> thou art found judging the ſervants of God to be without faith; but this I declare that Chriſt loved them, and chooſed them out of the world, to declare his eternal word of truth; and from that word they declar<g ref="char:EOLhyphen"/>ed, Theſe things have I written unto you that believe on the<note place="margin">I John 5. 13.</note> name of the Son of God, that ye may know that ye have e<g ref="char:EOLhyphen"/>ternal life; now here the Scripture doth make manifeſt that they did believe and had eternal life; and <hi>Iames</hi> ſaid, Yea a man may ſay thou haſt faith and I have works, ſhew me thy<note place="margin">James 2. 18.</note> faith without thy works; and I will ſhew thee my faith by my works; Now all people that read may come to ſee that the diſciples believed and had faith as ſaid <hi>John:</hi> for whatſo<g ref="char:EOLhyphen"/>ever is born of God overcometh the world, and this is the<note place="margin">I Joh. 5. 4.</note> victory that overcometh the world even our faith; and all them who knows the faith which is given of God, they know by that faith to overcome ſin; and ſo they come to witneſs the Scriptures; and to know the everlaſting Goſpel. But thou <hi>Vavaſer Powel,</hi> vvho goeth about to tell the people of a Goſpel and of a Faith, but they know not the power of God nor that faith which purifies; and thou art he who art found declaring a Goſpel without power which is not the Goſpel of Chriſt; but to that Goſpel which is the power of God thou art found to be him who is an enemie to the Goſ<g ref="char:EOLhyphen"/>pel of Chriſt; and that faith which vvas delivered to the ſaints. for if thou hadſt known that faith which purifies, thou wouldſt not have ſaid by them who Jeſus Chriſt chuſed to de<g ref="char:EOLhyphen"/>clare the Goſpel, ye unbeliveing and faithleſs generation; but <hi>Powel</hi> herein thou haſt made thy ſelfe manifeſt to all them that will not be will fully blind; and in ſtead of being a friend to the Goſpel, thou art found and enemie unto it, and a revening wolfe, who is ſeeking to devoure the Lamb, and them who are meſſengers from the Lamb of God, to de<g ref="char:EOLhyphen"/>clare the eternal word of truth to the people, but I found thee <hi>Powel</hi> declaring to the people, that the ſervants of God
+<pb n="11" facs="tcp:118786:7"/>
+who are his diſciples, that they were an unbeliveing and faithleſs generation; and herein <hi>Powel</hi> thou art found de<g ref="char:EOLhyphen"/>claring thy errors to the people, and contrary to the Scrip<g ref="char:EOLhyphen"/>ture crying up ſin, and another Goſpel which is without the power of God, and them that believe in it, ſhall never know to be redeemed from their ſins; but always live and die in them; and this is the end of thy miniſtry.</p>
+            </div>
+            <div n="2" type="error">
+               <head>Now I am come to the ſecond error?</head>
+               <p>Thou <hi>Vavaſer Powel,</hi> vvho ſaiſt that them vvho are ſancti<g ref="char:EOLhyphen"/>fied, purified, and clenſed did commit ſin, and fall into ſin.</p>
+               <p>Then <hi>John Moone</hi> anſwered and ſaid, he that ſanctifieth and he that is ſanctified are one, and this Scripture I bring to prove it; for both he that ſanctifieth and they who are ſanctified are all of one, for which cauſe he is not aſhamed to call them brethren; and now this I ſay that it is Chriſt<note place="margin">Heb 2. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> that ſanctifieth; and he doth not commit ſin, and he that is ſanctified is one vvith him, and he that is cleanſed and puri<g ref="char:EOLhyphen"/>fied is one with the Father, and the Son; but they who doth commit ſin is not one neither with the Father nor the Son; for God is of purer eyes then can behold iniquity; and this is he who is light, and them who are ſanctified walks in the light as <hi>J h</hi> ſaid; but if we walk in the light as he is in the light we have fellowſhip one with another, and the blood<note place="margin">I John 2. 7.</note> of Jeſus Chriſt his Son clenſeth us from all ſin; now here all that readeth may ſee that he who is ſanctified is one with God; But <hi>Powe</hi> who would make the people believe that he that is ſanctified commit's ſin, this is but to cover his Goſ<g ref="char:EOLhyphen"/>pel which is without power.</p>
+               <p>Then I hearing him preaching to uphold ſin; and ſaying that the godlyeſt man that ever was upon earth would ſin, then I aſked him if any ware clear or holy that paſſed before us; he anſwered and ſaid no not one; then I brought this Scripture, <hi>Now ye are clean through the word which I have ſpoken unto you;</hi> then he ſaid he would diſprove it, and<note place="margin">John 15. 3.</note>
+                  <pb n="12" facs="tcp:118786:8"/>
+ſought in a Bible to make theſe words to be a lye, and brought two or three ſcriptures; then I ſpake and ſaid, <hi>owel</hi> art thou going to prove Chriſts words to be aly, for Chriſt ſpake theſe words, that I have read, and thou art going to prove them a lye; and herein thou haſt made thy ſelfe manifeſt to all them that will not be wilfully blind; and in<g ref="char:EOLhyphen"/>ſteed of being a Preacher of the Goſpel, thou art found to be him that would deſtroy it, and is declaring contrary to the Scriptures as thou ſayeſt, There was no man holy upon earth; and Chriſt and his diſciples ſaid, there was, for the prophecy came not in old time by the will of man, but holy men of God ſpake as they were moved by the holy Ghoſt;<note place="margin">2 Pet. 1. 21.</note> but thou <hi>Powel</hi> haſt made thy ſelf manifeſt, that thou doſt not know this prophecy; if thou hadſt known that prophe<g ref="char:EOLhyphen"/>cy which is of God, thou wouldeſt not have cryed up to the people ſin and wickedneſs, and againſt the holy men of God; but herein thou art found in another prophecy, vvhich ſtands in thy ovvn vvill, and that makes the vvorld to receive thy teſtimony, and thou goeſt under a pretence to be a Preacher of the Goſpel, but I finde thee declaring to the people thy errors, crying up ſin and vvickedneſs, and ſaid it vvas to comfort the people; Novv people to let you knovv <hi>Powel</hi> errors vvhich he preaches, is theſe, He is crying up ſin and corruption and vvickedueſs, and theſe are them that are guided by the ſpirit of error, and he ſaith, The righteous man commiteth ſin, and I ſay, That is an error; and he ſaid, He that is clean commiteth ſin, and that is an other error; for vvho ſoever commiteth ſin is gui<g ref="char:EOLhyphen"/>ded by the ſpirit of error; and theſe are them vvhom thou <hi>Powel</hi> art declaring to the people, and to cover thy errors, thon cryeſt up an ordinanance to make thy errors to ſeem glorious to the vvorld, but thy ordinance is no more but vvhat the drunkard, ſvvearer, and lyer, doth knovv, and feed upon, and dye; for they are eating bread, and drink<g ref="char:EOLhyphen"/>ing vvine, but they do not diſcerne the Lords body, and<note place="margin">Eccleſ. 7. 20.</note> if thou <hi>Powel</hi> hadſt diſcerned the Lords body, thou vvould<g ref="char:EOLhyphen"/>eſt not have brought this Scripture; for there is not a juſt man upon earth that doeth good, and ſinneth not; But
+<pb n="13" facs="tcp:118786:8"/>
+herein thou haſt made thy ſelfe more manifeſt that ſayeſt, There is not a juſt man; thou haſt long been learning of the unjuſt; if thou hadſt but known, or confeſt that Chriſt is come into the world thou wouldeſt have hid thy error, and thy profeſſion would have ſeemed more glorious; but thou ſaying, There is not one that doth good, and ſinneth not, thou haſt denyed that Chriſt is come into the world; and herein thou art made manifeſt, to be a Miniſter of An<g ref="char:EOLhyphen"/>tichriſt, which upholds ſin, and thou pleading for thy ma<g ref="char:EOLhyphen"/>ſters kingdom; for if thou hadſt known the Goſpel of Chriſt thou wouldeſt not have ſaid, There is none that doth good; for it is the Goſpel of Chriſt which doth good, and as many as believe in it ſhall be ſaved; But thou art far from know<g ref="char:EOLhyphen"/>ing this Goſpel, or learning of it now ſee where thou and thy profeſſors have been learning all this while, who ſaith, There is none doth good, and ſinneth not, thou and thy profeſſors are far from witneſſing this Scripture, <hi>and</hi>
+                  <note place="margin">Heb. 8. 11.</note> 
+                  <hi>they ſhall not need to teach every man his neighbour, and every man his brother, ſaying, know the Lord, for all ſhall know me</hi>
+                  <note place="margin">Ver. 12</note> 
+                  <hi>from the leaſt, to the greateſt; for I will be merciful to their unrighteouſneſs, and their ſinns, and their iniquities will I</hi>
+                  <note place="margin">Heb. 20. 14.</note> 
+                  <hi>remember no more ſaith the Lord; For by one offering he hath pefected for ever them that are ſanctified;</hi> Now all people that read may ſee how contrary to the Scripture <hi>Powel</hi> hath ſpo<g ref="char:EOLhyphen"/>ken, that ſaith, He that is ſanctified doth commit ſin, and the Scripture ſaith, he that is ſanctified is perfected for e<g ref="char:EOLhyphen"/>ver and this is to let you ſee his blindneſs, who is the blind guide.</p>
+            </div>
+            <div n="3" type="error">
+               <head>Now I am Come to his Third Error.</head>
+               <p>Thou <hi>Vavaſer Powel</hi> who ſaiſt that the children of God, went into ſin, and commited ſin, and the Lord paſſed by them and did not reprove them.</p>
+               <p>
+                  <hi>Anſw.</hi> Then <hi>Iohn Moone</hi> anſwered and ſaid, that God did convince and reprove them that commited ſin, and the Lord is no reſpecter of perſons, and he will not let the tranſgreſſors go unpunniſhed; for you onely have I known
+<pb n="14" facs="tcp:118786:9"/>
+of all the families of the earth; therefore I will punniſh you<note place="margin">Amos 3. 2.</note> for all your iniquities ſaith the Lord; but thou who would'ſt have the Lord to reprove ſome, and not others; herein thou wouldſt make him to be a reſpector of perſons; but this I ſay, that the Lord came to execute judgement upon all, and to convince all that are ungodly amongſt them of all their ungodly deeds vvhich they have ungodly commit<g ref="char:EOLhyphen"/>ted, and of all their hard ſpeeches vvhich they have ſpoken<note place="margin">Jude 1. 15.</note> againſt him. Novv here I have made it appear by Scrip<g ref="char:EOLhyphen"/>ture, that the Lord convinces all, and that he executes judg<g ref="char:EOLhyphen"/>ment upon all, and they that commit ſin are <hi>wicked,</hi> but them vvho are the children of the Lord they knovv to bee born of the immortal ſeed vvhich the bleſſing is to; and <hi>herein we know, that whoſoever is born of God ſinneth not, but he that is begotten of God keepeth himſelf, and that wicked one</hi>
+                  <note place="margin">2 Joh. 5. 18.</note> 
+                  <hi>toucheth him not: but if thou hadſt known that birth which is of</hi> God, <hi>thou wouldſt not have ſaid that they committed ſin; but thou being ignorant of the new birth, therefore thou art ſpeaking evil of it, and it ſerves thee to talk on, and make a trade of it.</hi> Novv <hi>Powel</hi> if thou vvert not blinde, thou mightſt ſee thy confuſed language, and ſee that thy Miniſtery is contrary to the Apoſtles doctrine; for their doctrine vvas for the per<g ref="char:EOLhyphen"/>fecting<note place="margin">Eph. 4. 12, 13.</note> of the Saints, <hi>for the work of the Miniſtery, for the edifying of the body of Chriſt, till we all come in the unity of the faith, and of the knowledge of the Son of</hi> God <hi>unto a perfect man, whom we preach, warning every man, and teaching every</hi>
+                  <note place="margin">Gal. 1. 28.</note> 
+                  <hi>man in all wiſdome, that we may preſent every man perfect in Chriſt Jeſus.</hi> But <hi>Powel</hi> thy Miniſtery is to declare to the people to uphold <hi>ſin and wickedneſs,</hi> and tell them they muſt never be clean, nor never to have power to keep them out of Sin, but that they muſt commit ſin, and the Lord will paſs by it: And herein thou art ſtriving vvith all thy might and povver to keep the people in their ſinnes, and that they ſhall never be free whilſt they are upon earth: but all people conſider what life you live the ſame you muſt die; and own that light which ſhews you what life you do live, and what your <hi>works</hi> is, and euery one is to receiue a reward according to his deeds, and as long as you
+<pb n="15" facs="tcp:118786:9"/>
+follow them, that cries up ſin, you follow the miniſters of AntiChriſt; and theſe are them that ran, and the Lord ſent them not; and therefore they ſhall not Prophet my people at all ſaith the Lord; and theſe are them who ſaith there is none that doth good and ſinneth not; but them who are ſent of the Lord, they know the juſt and him that doth good; O how I love thy Law, it is my meditation all the day, and and thy Teſtimonies are wonderful, therefore doth my ſoul keep them, the entrance of thy word giveth light, it giveth<note place="margin">Pſal. 1 19. 96. v.</note> underſtanding to the ſimple; I have ſeen an end of all per<g ref="char:EOLhyphen"/>fection, bleſſed are they that keep his teſtimonies, and that ſeek him with the whole heart, they alſo do no iniquitie, they<note place="margin">Ver. 2, 3.</note> walke in his ways, and truſt in his name, and theſe are the remnant of Jſrael they ſhal not do iniquitie, nor ſpeak lies,<note place="margin">Zeph. 3. 13. ver.</note> neither ſhal a deceitful tongue be found in their mouths, for they ſhall feed and lie down in perfect peace, and none ſhall make them afrind.</p>
+            </div>
+            <div type="queries">
+               <pb n="16" facs="tcp:118786:10"/>
+               <head>Some Queries given forth by the Servant of the Lord, and are to be anſwered by them that lives in ob<g ref="char:EOLhyphen"/>ſervations:</head>
+               <div n="1" type="query">
+                  <head>Quaery 1.</head>
+                  <p>WHat the fall of man is? and, Where that is which man fell from? and, How man muſt know it again? and, Whether the reſurrecti<g ref="char:EOLhyphen"/>on be to that which man fell from, yea or nay?</p>
+               </div>
+               <div n="2" type="query">
+                  <head>Quaery 2.</head>
+                  <p>What is that which letteth, and wil let until it be taken out of the way? And where it is? And what is that which the Letter killeth? And where it is killed?</p>
+               </div>
+               <div n="3" type="query">
+                  <head>Quaery 3.</head>
+                  <p>What the ſoul of man is? and where it is? and how muſt man know when it is in death, and when it is raiſed to life?</p>
+               </div>
+               <div n="4" type="query">
+                  <head>Quaery 4.</head>
+                  <p>Whether Jeſus Chriſt be not the Light of the world? And how doth he enlighten every man that cometh into the world? and how is that Light the condemnation of them that do evil?</p>
+               </div>
+               <div n="5" type="query">
+                  <head>Quaery 5.</head>
+                  <p>Who are they which Chriſt ſpoke to, and ſaid,
+<pb n="17" facs="tcp:118786:10"/>
+                     <hi>Now are ye clean through the word which I ſpake unto you?</hi> And what that reſurrection is which <hi>Paul</hi> ſaid, If by any means he might attain unto it, ſeeing that all menſhall ariſe?</p>
+               </div>
+               <div n="6" type="query">
+                  <head>Quaery 6.</head>
+                  <p>Whether they which are eating bread, and drin<g ref="char:EOLhyphen"/>king wine, be not them which are ſhewing forth the Lords death, and deny his coming? and what Ordi<g ref="char:EOLhyphen"/>nances are thoſe which the Apoſtle ſaid, <hi>Touch not, taſte not, handle not that which is to periſh;</hi> ſhew what Ordinances they are?</p>
+               </div>
+               <div n="7" type="query">
+                  <head>Quaery 7.</head>
+                  <p>VVhether any man may be perfect whileſt he is upon the earth? And whether the new birth be wit<g ref="char:EOLhyphen"/>neſſed by any but them who were perfect, yea or nay?</p>
+               </div>
+               <div n="8" type="query">
+                  <head>Quaery 8.</head>
+                  <p>VVhat <hi>Sion</hi> is? and where it is? and where the fleſh of the Son of man is, that except a man eat thereof, he hath no life in him.</p>
+               </div>
+               <div n="9" type="query">
+                  <head>Quaery 9.</head>
+                  <p>VVhat that is which is dead in the grave, which ſhall hear and riſe up to life? and what that is which muſt riſe to condemnation? and where that grave is? and what that voice is? and where it is to be heard?</p>
+               </div>
+               <div n="10" type="query">
+                  <pb n="18" facs="tcp:118786:11"/>
+                  <head>Quaery 10.</head>
+                  <p>VVhat is the croſs of Chriſt? and how doth the creature know it, and bear it? and how is it preach<g ref="char:EOLhyphen"/>ed? and what is the offences of it? and how is it the power of God to ſalvation? and how doth it become a ſtumbling block? and how doth the offen<g ref="char:EOLhyphen"/>ces of it ceaſe?</p>
+               </div>
+               <div n="11" type="query">
+                  <head>Quaery 11.</head>
+                  <p>VVhat the falſe Prophet is? and where he is? and what his worſhip is? from the true Prophets ſhew the difference.</p>
+               </div>
+               <div n="12" type="query">
+                  <head>Quaery 12.</head>
+                  <p>VVhat God and King is that which the people ſhall look upwards and curſe? and where they are? and what their worſhip is, that the people might no longer worſhip them?</p>
+               </div>
+               <div n="13" type="query">
+                  <head>Quaery 13.</head>
+                  <p>VVhat the people was turned unto, ſeeing they had the Letter and were in darkneſs? And what eye that was which was blinde? And where that eye is? And how that eye was opened by which they come to ſee ſalvation.</p>
+               </div>
+               <div n="14" type="query">
+                  <head>Quaery 14.</head>
+                  <p>VVhat the Miniſtration of condemnation is? and
+<pb n="19" facs="tcp:118786:11"/>
+what is the glory of it? and how do the Miniſtrati<g ref="char:EOLhyphen"/>on of Righteouſneſs exceed in glory?</p>
+               </div>
+               <div n="15" type="query">
+                  <head>Quaery 15.</head>
+                  <p>VVhat the Garden of <hi>Eden</hi> is? and where it is? and what the tree of knowledge of good and evil is? and where it is? and how it may be known?</p>
+               </div>
+               <div n="16" type="query">
+                  <head>Quaery 16.</head>
+                  <p>What the Cherubins and the flaming Sword is? and where they are? and what the tree of Life is? and where it is?</p>
+               </div>
+               <div n="17" type="query">
+                  <head>Quaery 17.</head>
+                  <p>What the two witneſſes are which <hi>John</hi> ſpoke of, which lies ſlain in the Cities called <hi>Sodom</hi> and <hi>Egypt,</hi> which the people of the earth make merry over?</p>
+               </div>
+               <div n="18" type="query">
+                  <head>Quaery 18.</head>
+                  <p>What that ſure Foundation is which is al<g ref="char:EOLhyphen"/>ready laid? and where it is laid?</p>
+               </div>
+               <div n="19" type="query">
+                  <head>Quaery 19.</head>
+                  <p>What Ordinance is that which Chriſt ſaid, <hi>He that reſiſts it, reſists the power of God?</hi>
+                  </p>
+               </div>
+               <div n="20" type="query">
+                  <head>Quaery 20.</head>
+                  <p>Whether there be any true Church but that which
+<pb n="20" facs="tcp:118786:12"/>
+is in God? and whether any be in that Church and commit ſin, yea or nay?</p>
+               </div>
+               <div n="21" type="query">
+                  <head>Quaery 21.</head>
+                  <p>What, and where is that Principle which is pure, and leads man into that true church which is in God?</p>
+               </div>
+               <div n="22" type="query">
+                  <head>Quaery 22.</head>
+                  <p>How doth Chriſt become Mediator between God and man?</p>
+               </div>
+               <closer>
+                  <signed>Theſe are given forth by a Servant of the Lord, who is a lover of the Truth, and known to the world by this Name,
+JOHN MOON.</signed>
+               </closer>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:118786:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
